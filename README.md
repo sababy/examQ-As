@@ -4,8 +4,8 @@
 <h2>Pass4itSure 300-435 transfers the advantages of the reserve examination material</h2>
 <p>It comes in two formats:
 
-1.300-435 dumps PDF
-2.300-435 dumps VCE
+300-435 dumps PDF and 
+300-435 dumps VCE
 </p>
 <h2>Prepare for exam 300-435 with real answers</h2>
 <p>Pass4itSure provides precise answers to prepare you for the Cisco 300-435 exam. All Q&A materials are carefully selected by professionals from the syllabus of the Cisco 300-435 exam subjects</p>
